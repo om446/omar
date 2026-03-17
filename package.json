@@ -1,0 +1,10 @@
+{
+  "name": "omar-assistant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "whatsapp-web.js": "latest",
+    "qrcode-terminal": "latest",
+    "@google/generative-ai": "latest"
+  }
+}
